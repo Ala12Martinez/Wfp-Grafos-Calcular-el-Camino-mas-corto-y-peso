@@ -1,0 +1,17 @@
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\bin\Debug\ProyectGrafos.exe.config
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\bin\Debug\ProyectGrafos.exe
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\bin\Debug\ProyectGrafos.pdb
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\ProyectGrafos.csproj.AssemblyReference.cache
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\MainWindow.baml
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\MainWindow.g.cs
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\App.g.cs
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\ProyectGrafos_MarkupCompile.cache
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\ProyectGrafos.g.resources
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\ProyectGrafos.Properties.Resources.resources
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\ProyectGrafos.csproj.GenerateResource.cache
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\ProyectGrafos.csproj.CoreCompileInputs.cache
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\ProyectGrafos.exe
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\ProyectGrafos.pdb
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alanm\OneDrive\Documentos\Escritorio\ProyectoGinoGrafos\ProyectGrafos\ProyectGrafos\obj\Debug\ProyectG.940C8A6C.Up2Date
